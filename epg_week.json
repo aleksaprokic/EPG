@@ -1,2829 +1,2802 @@
 [
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-01T05:55:00",
-        "endUtc": "2025-09-01T06:10:00"
+        "startUtc": "2025-09-29T05:55:00",
+        "endUtc": "2025-09-29T06:10:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-01T06:10:00",
-        "endUtc": "2025-09-01T08:50:00"
+        "startUtc": "2025-09-29T06:10:00",
+        "endUtc": "2025-09-29T08:50:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-01T08:50:00",
-        "endUtc": "2025-09-01T09:15:00"
+        "startUtc": "2025-09-29T08:50:00",
+        "endUtc": "2025-09-29T09:15:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-01T09:15:00",
-        "endUtc": "2025-09-01T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-09-29T09:15:00",
+        "endUtc": "2025-09-29T09:50:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-01T09:50:00",
-        "endUtc": "2025-09-01T10:00:00"
+        "startUtc": "2025-09-29T09:50:00",
+        "endUtc": "2025-09-29T10:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-01T10:00:00",
-        "endUtc": "2025-09-01T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-09-29T10:00:00",
+        "endUtc": "2025-09-29T11:35:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-01T11:35:00",
-        "endUtc": "2025-09-01T11:50:00"
+        "startUtc": "2025-09-29T11:35:00",
+        "endUtc": "2025-09-29T11:50:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-01T11:50:00",
-        "endUtc": "2025-09-01T12:00:00"
+        "startUtc": "2025-09-29T11:50:00",
+        "endUtc": "2025-09-29T12:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "12:00:00",
-        "endTime": "13:00:00",
-        "title": "Poželi pesmu (R)",
-        "startUtc": "2025-09-01T12:00:00",
-        "endUtc": "2025-09-01T13:00:00"
+        "endTime": "12:50:00",
+        "title": "Serija: Žena",
+        "startUtc": "2025-09-29T12:00:00",
+        "endUtc": "2025-09-29T12:50:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-01T12:50:00",
-        "endUtc": "2025-09-01T13:00:00"
+        "startUtc": "2025-09-29T12:50:00",
+        "endUtc": "2025-09-29T13:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Poželi pesmu (R)",
-        "startUtc": "2025-09-01T13:00:00",
-        "endUtc": "2025-09-01T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-09-29T13:00:00",
+        "endUtc": "2025-09-29T13:50:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-01T13:50:00",
-        "endUtc": "2025-09-01T14:00:00"
+        "startUtc": "2025-09-29T13:50:00",
+        "endUtc": "2025-09-29T14:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-01T14:00:00",
-        "endUtc": "2025-09-01T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-09-29T14:00:00",
+        "endUtc": "2025-09-29T14:30:00"
     },
     {
-        "date": "01.09.2025.",
-        "startTime": "14:50:00",
+        "date": "29.09.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-01T14:50:00",
-        "endUtc": "2025-09-01T16:30:00"
+        "startUtc": "2025-09-29T14:30:00",
+        "endUtc": "2025-09-29T16:30:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-01T16:30:00",
-        "endUtc": "2025-09-01T17:00:00"
+        "startUtc": "2025-09-29T16:30:00",
+        "endUtc": "2025-09-29T17:05:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:35:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-01T17:05:00",
-        "endUtc": "2025-09-01T17:35:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-09-29T17:05:00",
+        "endUtc": "2025-09-29T17:40:00"
     },
     {
-        "date": "01.09.2025.",
-        "startTime": "17:35:00",
+        "date": "29.09.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-01T17:35:00",
-        "endUtc": "2025-09-01T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-09-29T17:40:00",
+        "endUtc": "2025-09-29T18:15:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-01T18:15:00",
-        "endUtc": "2025-09-01T19:05:00"
+        "startUtc": "2025-09-29T18:15:00",
+        "endUtc": "2025-09-29T19:05:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-01T19:10:00",
-        "endUtc": "2025-09-01T20:00:00"
+        "startUtc": "2025-09-29T19:10:00",
+        "endUtc": "2025-09-29T20:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "20:00:00",
         "endTime": "21:00:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-01T20:00:00",
-        "endUtc": "2025-09-01T21:00:00"
+        "startUtc": "2025-09-29T20:00:00",
+        "endUtc": "2025-09-29T21:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "21:00:00",
         "endTime": "23:00:00",
         "title": "Ćirilica",
-        "startUtc": "2025-09-01T21:00:00",
-        "endUtc": "2025-09-01T23:00:00"
+        "startUtc": "2025-09-29T21:00:00",
+        "endUtc": "2025-09-29T23:00:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-01T23:00:00",
-        "endUtc": "2025-09-01T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-09-29T23:00:00",
+        "endUtc": "2025-09-29T23:50:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-01T23:50:00",
-        "endUtc": "2025-09-01T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-09-29T23:50:00",
+        "endUtc": "2025-09-29T00:45:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-01T00:45:00",
-        "endUtc": "2025-09-01T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-09-29T00:45:00",
+        "endUtc": "2025-09-29T01:30:00"
     },
     {
-        "date": "01.09.2025.",
+        "date": "29.09.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-01T04:30:00",
-        "endUtc": "2025-09-01T05:55:00"
+        "startUtc": "2025-09-29T04:30:00",
+        "endUtc": "2025-09-29T05:55:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "05:55:00",
-        "endTime": "06:05:00",
+        "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-02T05:55:00",
-        "endUtc": "2025-09-02T06:05:00"
+        "startUtc": "2025-09-30T05:55:00",
+        "endUtc": "2025-09-30T06:10:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-02T06:10:00",
-        "endUtc": "2025-09-02T08:50:00"
+        "startUtc": "2025-09-30T06:10:00",
+        "endUtc": "2025-09-30T08:50:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-02T08:50:00",
-        "endUtc": "2025-09-02T09:15:00"
+        "startUtc": "2025-09-30T08:50:00",
+        "endUtc": "2025-09-30T09:15:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-02T09:15:00",
-        "endUtc": "2025-09-02T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-09-30T09:15:00",
+        "endUtc": "2025-09-30T09:50:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-02T09:50:00",
-        "endUtc": "2025-09-02T10:00:00"
+        "startUtc": "2025-09-30T09:50:00",
+        "endUtc": "2025-09-30T10:00:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-02T10:00:00",
-        "endUtc": "2025-09-02T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-09-30T10:00:00",
+        "endUtc": "2025-09-30T11:35:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-02T11:35:00",
-        "endUtc": "2025-09-02T11:50:00"
+        "startUtc": "2025-09-30T11:35:00",
+        "endUtc": "2025-09-30T11:50:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-02T11:50:00",
-        "endUtc": "2025-09-02T12:00:00"
+        "startUtc": "2025-09-30T11:50:00",
+        "endUtc": "2025-09-30T12:00:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Serija: Jedino ljubav (R)",
-        "startUtc": "2025-09-02T12:00:00",
-        "endUtc": "2025-09-02T12:50:00"
+        "title": "Serija: Žena",
+        "startUtc": "2025-09-30T12:00:00",
+        "endUtc": "2025-09-30T12:50:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-02T12:50:00",
-        "endUtc": "2025-09-02T13:00:00"
+        "startUtc": "2025-09-30T12:50:00",
+        "endUtc": "2025-09-30T13:00:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Serija: Druga sansa (R)",
-        "startUtc": "2025-09-02T13:00:00",
-        "endUtc": "2025-09-02T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-09-30T13:00:00",
+        "endUtc": "2025-09-30T13:50:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-02T13:50:00",
-        "endUtc": "2025-09-02T14:00:00"
+        "startUtc": "2025-09-30T13:50:00",
+        "endUtc": "2025-09-30T14:00:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-02T14:00:00",
-        "endUtc": "2025-09-02T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-09-30T14:00:00",
+        "endUtc": "2025-09-30T14:30:00"
     },
     {
-        "date": "02.09.2025.",
-        "startTime": "14:50:00",
+        "date": "30.09.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-02T14:50:00",
-        "endUtc": "2025-09-02T16:30:00"
+        "startUtc": "2025-09-30T14:30:00",
+        "endUtc": "2025-09-30T16:30:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-02T16:30:00",
-        "endUtc": "2025-09-02T17:00:00"
+        "startUtc": "2025-09-30T16:30:00",
+        "endUtc": "2025-09-30T17:05:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-02T17:05:00",
-        "endUtc": "2025-09-02T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-09-30T17:05:00",
+        "endUtc": "2025-09-30T17:40:00"
     },
     {
-        "date": "02.09.2025.",
-        "startTime": "17:35:00",
+        "date": "30.09.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-02T17:35:00",
-        "endUtc": "2025-09-02T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-09-30T17:40:00",
+        "endUtc": "2025-09-30T18:15:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-02T18:15:00",
-        "endUtc": "2025-09-02T19:05:00"
+        "startUtc": "2025-09-30T18:15:00",
+        "endUtc": "2025-09-30T19:05:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-02T19:10:00",
-        "endUtc": "2025-09-02T20:00:00"
+        "startUtc": "2025-09-30T19:10:00",
+        "endUtc": "2025-09-30T20:00:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "20:00:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-02T20:00:00",
-        "endUtc": "2025-09-02T21:30:00"
+        "startUtc": "2025-09-30T20:00:00",
+        "endUtc": "2025-09-30T21:30:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Muzički specijal",
-        "startUtc": "2025-09-02T21:30:00",
-        "endUtc": "2025-09-02T23:00:00"
+        "startUtc": "2025-09-30T21:30:00",
+        "endUtc": "2025-09-30T23:00:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-02T23:00:00",
-        "endUtc": "2025-09-02T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-09-30T23:00:00",
+        "endUtc": "2025-09-30T23:50:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-02T23:50:00",
-        "endUtc": "2025-09-02T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-09-30T23:50:00",
+        "endUtc": "2025-09-30T00:45:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-02T00:45:00",
-        "endUtc": "2025-09-02T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-09-30T00:45:00",
+        "endUtc": "2025-09-30T01:30:00"
     },
     {
-        "date": "02.09.2025.",
+        "date": "30.09.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-02T04:30:00",
-        "endUtc": "2025-09-02T05:55:00"
+        "startUtc": "2025-09-30T04:30:00",
+        "endUtc": "2025-09-30T05:55:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "05:55:00",
-        "endTime": "06:05:00",
+        "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-03T05:55:00",
-        "endUtc": "2025-09-03T06:05:00"
+        "startUtc": "2025-10-01T05:55:00",
+        "endUtc": "2025-10-01T06:10:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-03T06:10:00",
-        "endUtc": "2025-09-03T08:50:00"
+        "startUtc": "2025-10-01T06:10:00",
+        "endUtc": "2025-10-01T08:50:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-03T08:50:00",
-        "endUtc": "2025-09-03T09:15:00"
+        "startUtc": "2025-10-01T08:50:00",
+        "endUtc": "2025-10-01T09:15:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-03T09:15:00",
-        "endUtc": "2025-09-03T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-01T09:15:00",
+        "endUtc": "2025-10-01T09:50:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-03T09:50:00",
-        "endUtc": "2025-09-03T10:00:00"
+        "startUtc": "2025-10-01T09:50:00",
+        "endUtc": "2025-10-01T10:00:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-03T10:00:00",
-        "endUtc": "2025-09-03T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-01T10:00:00",
+        "endUtc": "2025-10-01T11:35:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-03T11:35:00",
-        "endUtc": "2025-09-03T11:50:00"
+        "startUtc": "2025-10-01T11:35:00",
+        "endUtc": "2025-10-01T11:50:00"
     },
     {
-        "date": "03.09.2025.",
-        "startTime": "11:55:00",
+        "date": "01.10.2025.",
+        "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-03T11:55:00",
-        "endUtc": "2025-09-03T12:00:00"
+        "startUtc": "2025-10-01T11:50:00",
+        "endUtc": "2025-10-01T12:00:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-03T12:00:00",
-        "endUtc": "2025-09-03T12:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-01T12:00:00",
+        "endUtc": "2025-10-01T12:50:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-03T12:50:00",
-        "endUtc": "2025-09-03T13:00:00"
+        "startUtc": "2025-10-01T12:50:00",
+        "endUtc": "2025-10-01T13:00:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-03T13:00:00",
-        "endUtc": "2025-09-03T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-01T13:00:00",
+        "endUtc": "2025-10-01T13:50:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-03T13:50:00",
-        "endUtc": "2025-09-03T14:00:00"
+        "startUtc": "2025-10-01T13:50:00",
+        "endUtc": "2025-10-01T14:00:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-03T14:00:00",
-        "endUtc": "2025-09-03T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-01T14:00:00",
+        "endUtc": "2025-10-01T14:30:00"
     },
     {
-        "date": "03.09.2025.",
-        "startTime": "14:50:00",
+        "date": "01.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-03T14:50:00",
-        "endUtc": "2025-09-03T16:30:00"
+        "startUtc": "2025-10-01T14:30:00",
+        "endUtc": "2025-10-01T16:30:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-03T16:30:00",
-        "endUtc": "2025-09-03T17:00:00"
+        "startUtc": "2025-10-01T16:30:00",
+        "endUtc": "2025-10-01T17:05:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-03T17:05:00",
-        "endUtc": "2025-09-03T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-01T17:05:00",
+        "endUtc": "2025-10-01T17:40:00"
     },
     {
-        "date": "03.09.2025.",
-        "startTime": "17:35:00",
+        "date": "01.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-03T17:35:00",
-        "endUtc": "2025-09-03T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-01T17:40:00",
+        "endUtc": "2025-10-01T18:15:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-03T18:15:00",
-        "endUtc": "2025-09-03T19:05:00"
+        "startUtc": "2025-10-01T18:15:00",
+        "endUtc": "2025-10-01T19:05:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "19:10:00",
         "endTime": "19:35:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-03T19:10:00",
-        "endUtc": "2025-09-03T19:35:00"
+        "startUtc": "2025-10-01T19:10:00",
+        "endUtc": "2025-10-01T19:35:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "19:35:00",
         "endTime": "20:30:00",
         "title": "BINGO",
-        "startUtc": "2025-09-03T19:35:00",
-        "endUtc": "2025-09-03T20:30:00"
+        "startUtc": "2025-10-01T19:35:00",
+        "endUtc": "2025-10-01T20:30:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "20:05:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-03T20:05:00",
-        "endUtc": "2025-09-03T21:30:00"
+        "startUtc": "2025-10-01T20:05:00",
+        "endUtc": "2025-10-01T21:30:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Muzički specijal",
-        "startUtc": "2025-09-03T21:30:00",
-        "endUtc": "2025-09-03T23:00:00"
+        "startUtc": "2025-10-01T21:30:00",
+        "endUtc": "2025-10-01T23:00:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-03T23:00:00",
-        "endUtc": "2025-09-03T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-01T23:00:00",
+        "endUtc": "2025-10-01T23:50:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-03T23:50:00",
-        "endUtc": "2025-09-03T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-01T23:50:00",
+        "endUtc": "2025-10-01T00:45:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-03T00:45:00",
-        "endUtc": "2025-09-03T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-01T00:45:00",
+        "endUtc": "2025-10-01T01:30:00"
     },
     {
-        "date": "03.09.2025.",
+        "date": "01.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-03T04:30:00",
-        "endUtc": "2025-09-03T05:55:00"
+        "startUtc": "2025-10-01T04:30:00",
+        "endUtc": "2025-10-01T05:55:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "05:55:00",
-        "endTime": "06:05:00",
+        "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-04T05:55:00",
-        "endUtc": "2025-09-04T06:05:00"
+        "startUtc": "2025-10-02T05:55:00",
+        "endUtc": "2025-10-02T06:10:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-04T06:10:00",
-        "endUtc": "2025-09-04T08:50:00"
+        "startUtc": "2025-10-02T06:10:00",
+        "endUtc": "2025-10-02T08:50:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-04T08:50:00",
-        "endUtc": "2025-09-04T09:15:00"
+        "startUtc": "2025-10-02T08:50:00",
+        "endUtc": "2025-10-02T09:15:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-04T09:15:00",
-        "endUtc": "2025-09-04T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-02T09:15:00",
+        "endUtc": "2025-10-02T09:50:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-04T09:50:00",
-        "endUtc": "2025-09-04T10:00:00"
+        "startUtc": "2025-10-02T09:50:00",
+        "endUtc": "2025-10-02T10:00:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-04T10:00:00",
-        "endUtc": "2025-09-04T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-02T10:00:00",
+        "endUtc": "2025-10-02T11:35:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-04T11:35:00",
-        "endUtc": "2025-09-04T11:50:00"
+        "startUtc": "2025-10-02T11:35:00",
+        "endUtc": "2025-10-02T11:50:00"
     },
     {
-        "date": "04.09.2025.",
-        "startTime": "11:55:00",
+        "date": "02.10.2025.",
+        "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-04T11:55:00",
-        "endUtc": "2025-09-04T12:00:00"
+        "startUtc": "2025-10-02T11:50:00",
+        "endUtc": "2025-10-02T12:00:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-04T12:00:00",
-        "endUtc": "2025-09-04T12:50:00"
+        "title": "Serija: Žena",
+        "startUtc": "2025-10-02T12:00:00",
+        "endUtc": "2025-10-02T12:50:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-04T12:50:00",
-        "endUtc": "2025-09-04T13:00:00"
+        "startUtc": "2025-10-02T12:50:00",
+        "endUtc": "2025-10-02T13:00:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-04T13:00:00",
-        "endUtc": "2025-09-04T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-02T13:00:00",
+        "endUtc": "2025-10-02T13:50:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-04T13:50:00",
-        "endUtc": "2025-09-04T14:00:00"
+        "startUtc": "2025-10-02T13:50:00",
+        "endUtc": "2025-10-02T14:00:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-04T14:00:00",
-        "endUtc": "2025-09-04T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-02T14:00:00",
+        "endUtc": "2025-10-02T14:30:00"
     },
     {
-        "date": "04.09.2025.",
-        "startTime": "14:50:00",
+        "date": "02.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-04T14:50:00",
-        "endUtc": "2025-09-04T16:30:00"
+        "startUtc": "2025-10-02T14:30:00",
+        "endUtc": "2025-10-02T16:30:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-04T16:30:00",
-        "endUtc": "2025-09-04T17:00:00"
+        "startUtc": "2025-10-02T16:30:00",
+        "endUtc": "2025-10-02T17:05:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-04T17:05:00",
-        "endUtc": "2025-09-04T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-02T17:05:00",
+        "endUtc": "2025-10-02T17:40:00"
     },
     {
-        "date": "04.09.2025.",
-        "startTime": "17:35:00",
+        "date": "02.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-04T17:35:00",
-        "endUtc": "2025-09-04T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-02T17:40:00",
+        "endUtc": "2025-10-02T18:15:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-04T18:15:00",
-        "endUtc": "2025-09-04T19:05:00"
+        "startUtc": "2025-10-02T18:15:00",
+        "endUtc": "2025-10-02T19:05:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-04T19:10:00",
-        "endUtc": "2025-09-04T20:00:00"
+        "startUtc": "2025-10-02T19:10:00",
+        "endUtc": "2025-10-02T20:00:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "20:00:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-04T20:00:00",
-        "endUtc": "2025-09-04T21:30:00"
+        "startUtc": "2025-10-02T20:00:00",
+        "endUtc": "2025-10-02T21:30:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Dobro veče",
-        "startUtc": "2025-09-04T21:30:00",
-        "endUtc": "2025-09-04T23:00:00"
+        "startUtc": "2025-10-02T21:30:00",
+        "endUtc": "2025-10-02T23:00:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-04T23:00:00",
-        "endUtc": "2025-09-04T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-02T23:00:00",
+        "endUtc": "2025-10-02T23:50:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-04T23:50:00",
-        "endUtc": "2025-09-04T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-02T23:50:00",
+        "endUtc": "2025-10-02T00:45:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-04T00:45:00",
-        "endUtc": "2025-09-04T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-02T00:45:00",
+        "endUtc": "2025-10-02T01:30:00"
     },
     {
-        "date": "04.09.2025.",
+        "date": "02.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-04T04:30:00",
-        "endUtc": "2025-09-04T05:55:00"
+        "startUtc": "2025-10-02T04:30:00",
+        "endUtc": "2025-10-02T05:55:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "05:55:00",
-        "endTime": "06:05:00",
+        "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-05T05:55:00",
-        "endUtc": "2025-09-05T06:05:00"
+        "startUtc": "2025-10-03T05:55:00",
+        "endUtc": "2025-10-03T06:10:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-05T06:10:00",
-        "endUtc": "2025-09-05T08:50:00"
+        "startUtc": "2025-10-03T06:10:00",
+        "endUtc": "2025-10-03T08:50:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-05T08:50:00",
-        "endUtc": "2025-09-05T09:15:00"
+        "startUtc": "2025-10-03T08:50:00",
+        "endUtc": "2025-10-03T09:15:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-05T09:15:00",
-        "endUtc": "2025-09-05T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-03T09:15:00",
+        "endUtc": "2025-10-03T09:50:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-05T09:50:00",
-        "endUtc": "2025-09-05T10:00:00"
+        "startUtc": "2025-10-03T09:50:00",
+        "endUtc": "2025-10-03T10:00:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-05T10:00:00",
-        "endUtc": "2025-09-05T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-03T10:00:00",
+        "endUtc": "2025-10-03T11:35:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-05T11:35:00",
-        "endUtc": "2025-09-05T11:50:00"
+        "startUtc": "2025-10-03T11:35:00",
+        "endUtc": "2025-10-03T11:50:00"
     },
     {
-        "date": "05.09.2025.",
-        "startTime": "11:55:00",
+        "date": "03.10.2025.",
+        "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-05T11:55:00",
-        "endUtc": "2025-09-05T12:00:00"
+        "startUtc": "2025-10-03T11:50:00",
+        "endUtc": "2025-10-03T12:00:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Dobro veče (R)",
-        "startUtc": "2025-09-05T12:00:00",
-        "endUtc": "2025-09-05T12:50:00"
+        "title": "Serija: Žena",
+        "startUtc": "2025-10-03T12:00:00",
+        "endUtc": "2025-10-03T12:50:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-05T12:50:00",
-        "endUtc": "2025-09-05T13:00:00"
+        "startUtc": "2025-10-03T12:50:00",
+        "endUtc": "2025-10-03T13:00:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Dobro veče (R)",
-        "startUtc": "2025-09-05T13:00:00",
-        "endUtc": "2025-09-05T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-03T13:00:00",
+        "endUtc": "2025-10-03T13:50:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-05T13:50:00",
-        "endUtc": "2025-09-05T14:00:00"
+        "startUtc": "2025-10-03T13:50:00",
+        "endUtc": "2025-10-03T14:00:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-05T14:00:00",
-        "endUtc": "2025-09-05T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-03T14:00:00",
+        "endUtc": "2025-10-03T14:30:00"
     },
     {
-        "date": "05.09.2025.",
-        "startTime": "14:50:00",
+        "date": "03.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-05T14:50:00",
-        "endUtc": "2025-09-05T16:30:00"
+        "startUtc": "2025-10-03T14:30:00",
+        "endUtc": "2025-10-03T16:30:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-05T16:30:00",
-        "endUtc": "2025-09-05T17:00:00"
+        "startUtc": "2025-10-03T16:30:00",
+        "endUtc": "2025-10-03T17:05:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-05T17:05:00",
-        "endUtc": "2025-09-05T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-03T17:05:00",
+        "endUtc": "2025-10-03T17:40:00"
     },
     {
-        "date": "05.09.2025.",
-        "startTime": "17:35:00",
+        "date": "03.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-05T17:35:00",
-        "endUtc": "2025-09-05T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-03T17:40:00",
+        "endUtc": "2025-10-03T18:15:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-05T18:15:00",
-        "endUtc": "2025-09-05T19:05:00"
+        "startUtc": "2025-10-03T18:15:00",
+        "endUtc": "2025-10-03T19:05:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-05T19:10:00",
-        "endUtc": "2025-09-05T20:00:00"
+        "startUtc": "2025-10-03T19:10:00",
+        "endUtc": "2025-10-03T20:00:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "20:00:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-05T20:00:00",
-        "endUtc": "2025-09-05T21:30:00"
+        "startUtc": "2025-10-03T20:00:00",
+        "endUtc": "2025-10-03T21:30:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Poželi pesmu",
-        "startUtc": "2025-09-05T21:30:00",
-        "endUtc": "2025-09-05T23:00:00"
+        "startUtc": "2025-10-03T21:30:00",
+        "endUtc": "2025-10-03T23:00:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-05T23:00:00",
-        "endUtc": "2025-09-05T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-03T23:00:00",
+        "endUtc": "2025-10-03T23:50:00"
     },
     {
-        "date": "05.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-05T23:50:00",
-        "endUtc": "2025-09-05T00:45:00"
-    },
-    {
-        "date": "05.09.2025.",
-        "startTime": "00:45:00",
-        "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-05T00:45:00",
-        "endUtc": "2025-09-05T01:30:00"
-    },
-    {
-        "date": "05.09.2025.",
-        "startTime": "04:30:00",
-        "endTime": "05:55:00",
-        "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-05T04:30:00",
-        "endUtc": "2025-09-05T05:55:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "05:55:00",
-        "endTime": "06:05:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-06T05:55:00",
-        "endUtc": "2025-09-06T06:05:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "06:10:00",
-        "endTime": "08:50:00",
-        "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-06T06:10:00",
-        "endUtc": "2025-09-06T08:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "08:50:00",
-        "endTime": "09:15:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-06T08:50:00",
-        "endUtc": "2025-09-06T09:15:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "09:15:00",
-        "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-06T09:15:00",
-        "endUtc": "2025-09-06T09:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "09:50:00",
-        "endTime": "10:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-06T09:50:00",
-        "endUtc": "2025-09-06T10:00:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "10:00:00",
-        "endTime": "10:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-06T10:00:00",
-        "endUtc": "2025-09-06T10:35:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "10:35:00",
-        "endTime": "10:50:00",
-        "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-06T10:35:00",
-        "endUtc": "2025-09-06T10:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "10:50:00",
-        "endTime": "11:50:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-06T10:50:00",
-        "endUtc": "2025-09-06T11:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "11:50:00",
-        "endTime": "12:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-06T11:50:00",
-        "endUtc": "2025-09-06T12:00:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "12:00:00",
-        "endTime": "13:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-06T12:00:00",
-        "endUtc": "2025-09-06T13:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "13:50:00",
-        "endTime": "14:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-06T13:50:00",
-        "endUtc": "2025-09-06T14:00:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-06T14:00:00",
-        "endUtc": "2025-09-06T14:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "14:50:00",
-        "endTime": "16:30:00",
-        "title": "Raspevana Subota",
-        "startUtc": "2025-09-06T14:50:00",
-        "endUtc": "2025-09-06T16:30:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "16:30:00",
-        "endTime": "17:00:00",
-        "title": "Telemaster",
-        "startUtc": "2025-09-06T16:30:00",
-        "endUtc": "2025-09-06T17:00:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-06T17:05:00",
-        "endUtc": "2025-09-06T17:30:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "17:35:00",
-        "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-06T17:35:00",
-        "endUtc": "2025-09-06T18:15:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "18:15:00",
-        "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-06T18:15:00",
-        "endUtc": "2025-09-06T19:05:00"
+        "startUtc": "2025-10-03T23:50:00",
+        "endUtc": "2025-10-03T00:45:00"
     },
     {
-        "date": "06.09.2025.",
-        "startTime": "19:10:00",
-        "endTime": "20:00:00",
-        "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-06T19:10:00",
-        "endUtc": "2025-09-06T20:00:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "20:00:00",
-        "endTime": "23:00:00",
-        "title": "Aktuelnosti",
-        "startUtc": "2025-09-06T20:00:00",
-        "endUtc": "2025-09-06T23:00:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "23:00:00",
-        "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-06T23:00:00",
-        "endUtc": "2025-09-06T23:50:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "23:50:00",
-        "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-06T23:50:00",
-        "endUtc": "2025-09-06T00:45:00"
-    },
-    {
-        "date": "06.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-06T00:45:00",
-        "endUtc": "2025-09-06T01:30:00"
-    },
-    {
-        "date": "06.09.2025.",
-        "startTime": "04:30:00",
-        "endTime": "05:55:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-06T04:30:00",
-        "endUtc": "2025-09-06T05:55:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "07:00:00",
-        "endTime": "08:00:00",
-        "title": "Bolja zemlja",
-        "startUtc": "2025-09-07T07:00:00",
-        "endUtc": "2025-09-07T08:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "08:00:00",
-        "endTime": "08:50:00",
-        "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-07T08:00:00",
-        "endUtc": "2025-09-07T08:50:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "08:50:00",
-        "endTime": "09:15:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-07T08:50:00",
-        "endUtc": "2025-09-07T09:15:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "09:15:00",
-        "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-07T09:15:00",
-        "endUtc": "2025-09-07T09:50:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "09:50:00",
-        "endTime": "10:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-07T09:50:00",
-        "endUtc": "2025-09-07T10:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "10:00:00",
-        "endTime": "10:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-07T10:00:00",
-        "endUtc": "2025-09-07T10:35:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "10:35:00",
-        "endTime": "10:50:00",
-        "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-07T10:35:00",
-        "endUtc": "2025-09-07T10:50:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "10:50:00",
-        "endTime": "11:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-07T10:50:00",
-        "endUtc": "2025-09-07T11:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "11:00:00",
-        "endTime": "11:55:00",
-        "title": "Serija Jedino Ljubav R",
-        "startUtc": "2025-09-07T11:00:00",
-        "endUtc": "2025-09-07T11:55:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "11:50:00",
-        "endTime": "12:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-07T11:50:00",
-        "endUtc": "2025-09-07T12:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "12:00:00",
-        "endTime": "13:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-07T12:00:00",
-        "endUtc": "2025-09-07T13:50:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "13:50:00",
-        "endTime": "14:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-07T13:50:00",
-        "endUtc": "2025-09-07T14:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-07T14:00:00",
-        "endUtc": "2025-09-07T14:50:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "14:50:00",
-        "endTime": "16:30:00",
-        "title": "Posle ručka",
-        "startUtc": "2025-09-07T14:50:00",
-        "endUtc": "2025-09-07T16:30:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "16:30:00",
-        "endTime": "17:00:00",
-        "title": "Telemaster",
-        "startUtc": "2025-09-07T16:30:00",
-        "endUtc": "2025-09-07T17:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-07T17:05:00",
-        "endUtc": "2025-09-07T17:30:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "17:35:00",
-        "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-07T17:35:00",
-        "endUtc": "2025-09-07T18:15:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "18:15:00",
-        "endTime": "19:05:00",
-        "title": "Serija Druga šansa",
-        "startUtc": "2025-09-07T18:15:00",
-        "endUtc": "2025-09-07T19:05:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "19:10:00",
-        "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-07T19:10:00",
-        "endUtc": "2025-09-07T20:00:00"
+        "startUtc": "2025-10-03T00:45:00",
+        "endUtc": "2025-10-03T01:30:00"
     },
     {
-        "date": "07.09.2025.",
-        "startTime": "20:00:00",
-        "endTime": "21:30:00",
-        "title": "Aktuelnosti",
-        "startUtc": "2025-09-07T20:00:00",
-        "endUtc": "2025-09-07T21:30:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "21:30:00",
-        "endTime": "23:00:00",
-        "title": "Svadba od milion evra R",
-        "startUtc": "2025-09-07T21:30:00",
-        "endUtc": "2025-09-07T23:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "23:00:00",
-        "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-07T23:00:00",
-        "endUtc": "2025-09-07T23:50:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "23:50:00",
-        "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-07T23:50:00",
-        "endUtc": "2025-09-07T00:45:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "00:45:00",
-        "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-07T00:45:00",
-        "endUtc": "2025-09-07T01:30:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "01:30:00",
-        "endTime": "03:00:00",
-        "title": "Ćirilica (R)",
-        "startUtc": "2025-09-07T01:30:00",
-        "endUtc": "2025-09-07T03:00:00"
-    },
-    {
-        "date": "07.09.2025.",
-        "startTime": "03:00:00",
-        "endTime": "04:30:00",
-        "title": "Posle ručka (R)",
-        "startUtc": "2025-09-07T03:00:00",
-        "endUtc": "2025-09-07T04:30:00"
-    },
-    {
-        "date": "07.09.2025.",
+        "date": "03.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-07T04:30:00",
-        "endUtc": "2025-09-07T05:55:00"
+        "startUtc": "2025-10-03T04:30:00",
+        "endUtc": "2025-10-03T05:55:00"
     },
     {
-        "date": "07.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-07T05:55:00",
-        "endUtc": "2025-09-07T06:10:00"
-    },
-
-    
-    {
-        "date": "08.09.2025.",
-        "startTime": "05:55:00",
-        "endTime": "06:10:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-08T05:55:00",
-        "endUtc": "2025-09-08T06:10:00"
+        "startUtc": "2025-10-04T05:55:00",
+        "endUtc": "2025-10-04T06:10:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-08T06:10:00",
-        "endUtc": "2025-09-08T08:50:00"
+        "startUtc": "2025-10-04T06:10:00",
+        "endUtc": "2025-10-04T08:50:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-08T08:50:00",
-        "endUtc": "2025-09-08T09:15:00"
+        "startUtc": "2025-10-04T08:50:00",
+        "endUtc": "2025-10-04T09:15:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-08T09:15:00",
-        "endUtc": "2025-09-08T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-04T09:15:00",
+        "endUtc": "2025-10-04T09:50:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-08T09:50:00",
-        "endUtc": "2025-09-08T10:00:00"
+        "startUtc": "2025-10-04T09:50:00",
+        "endUtc": "2025-10-04T10:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "10:00:00",
-        "endTime": "11:35:00",
+        "endTime": "10:35:00",
         "title": "Provodadžija",
-        "startUtc": "2025-09-08T10:00:00",
-        "endUtc": "2025-09-08T11:35:00"
+        "startUtc": "2025-10-04T10:00:00",
+        "endUtc": "2025-10-04T10:35:00"
     },
     {
-        "date": "08.09.2025.",
-        "startTime": "11:35:00",
-        "endTime": "11:50:00",
+        "date": "04.10.2025.",
+        "startTime": "10:35:00",
+        "endTime": "10:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-08T11:35:00",
-        "endUtc": "2025-09-08T11:50:00"
+        "startUtc": "2025-10-04T10:35:00",
+        "endUtc": "2025-10-04T10:50:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
+        "startTime": "10:50:00",
+        "endTime": "11:50:00",
+        "title": "Provodadžija",
+        "startUtc": "2025-10-04T10:50:00",
+        "endUtc": "2025-10-04T11:50:00"
+    },
+    {
+        "date": "04.10.2025.",
         "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-08T11:50:00",
-        "endUtc": "2025-09-08T12:00:00"
+        "startUtc": "2025-10-04T11:50:00",
+        "endUtc": "2025-10-04T12:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "12:00:00",
-        "endTime": "13:00:00",
-        "title": "Poželi pesmu (R)",
-        "startUtc": "2025-09-08T12:00:00",
-        "endUtc": "2025-09-08T13:00:00"
+        "endTime": "12:50:00",
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-04T12:00:00",
+        "endUtc": "2025-10-04T12:50:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-08T12:50:00",
-        "endUtc": "2025-09-08T13:00:00"
+        "startUtc": "2025-10-04T12:50:00",
+        "endUtc": "2025-10-04T13:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Poželi pesmu (R)",
-        "startUtc": "2025-09-08T13:00:00",
-        "endUtc": "2025-09-08T13:50:00"
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-04T13:00:00",
+        "endUtc": "2025-10-04T13:50:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-08T13:50:00",
-        "endUtc": "2025-09-08T14:00:00"
+        "startUtc": "2025-10-04T13:50:00",
+        "endUtc": "2025-10-04T14:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-08T14:00:00",
-        "endUtc": "2025-09-08T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-04T14:00:00",
+        "endUtc": "2025-10-04T14:30:00"
     },
     {
-        "date": "08.09.2025.",
-        "startTime": "14:50:00",
+        "date": "04.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
-        "title": "Posle ručka",
-        "startUtc": "2025-09-08T14:50:00",
-        "endUtc": "2025-09-08T16:30:00"
+        "title": "Raspevana Subota",
+        "startUtc": "2025-10-04T14:30:00",
+        "endUtc": "2025-10-04T16:30:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "16:30:00",
         "endTime": "17:00:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-08T16:30:00",
-        "endUtc": "2025-09-08T17:00:00"
+        "startUtc": "2025-10-04T16:30:00",
+        "endUtc": "2025-10-04T17:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:35:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-08T17:05:00",
-        "endUtc": "2025-09-08T17:35:00"
+        "endTime": "17:30:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-04T17:05:00",
+        "endUtc": "2025-10-04T17:30:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "17:35:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-08T17:35:00",
-        "endUtc": "2025-09-08T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-04T17:35:00",
+        "endUtc": "2025-10-04T18:15:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-08T18:15:00",
-        "endUtc": "2025-09-08T19:05:00"
+        "startUtc": "2025-10-04T18:15:00",
+        "endUtc": "2025-10-04T19:05:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-08T19:10:00",
-        "endUtc": "2025-09-08T20:00:00"
+        "startUtc": "2025-10-04T19:10:00",
+        "endUtc": "2025-10-04T20:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "04.10.2025.",
+        "startTime": "20:00:00",
+        "endTime": "23:00:00",
+        "title": "Aktuelnosti",
+        "startUtc": "2025-10-04T20:00:00",
+        "endUtc": "2025-10-04T23:00:00"
+    },
+    {
+        "date": "04.10.2025.",
+        "startTime": "23:00:00",
+        "endTime": "23:50:00",
+        "title": "Serija Žena",
+        "startUtc": "2025-10-04T23:00:00",
+        "endUtc": "2025-10-04T23:50:00"
+    },
+    {
+        "date": "04.10.2025.",
+        "startTime": "23:50:00",
+        "endTime": "00:45:00",
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-04T23:50:00",
+        "endUtc": "2025-10-04T00:45:00"
+    },
+    {
+        "date": "04.10.2025.",
+        "startTime": "00:45:00",
+        "endTime": "01:30:00",
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-04T00:45:00",
+        "endUtc": "2025-10-04T01:30:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "05:55:00",
+        "endTime": "06:10:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-05T05:55:00",
+        "endUtc": "2025-10-05T06:10:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "06:10:00",
+        "endTime": "08:50:00",
+        "title": "Dobro jutro Srbijo",
+        "startUtc": "2025-10-05T06:10:00",
+        "endUtc": "2025-10-05T08:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "08:50:00",
+        "endTime": "09:15:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-05T08:50:00",
+        "endUtc": "2025-10-05T09:15:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "09:15:00",
+        "endTime": "09:50:00",
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-05T09:15:00",
+        "endUtc": "2025-10-05T09:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "09:50:00",
+        "endTime": "10:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-05T09:50:00",
+        "endUtc": "2025-10-05T10:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "10:00:00",
+        "endTime": "10:35:00",
+        "title": "Provodadžija",
+        "startUtc": "2025-10-05T10:00:00",
+        "endUtc": "2025-10-05T10:35:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "10:35:00",
+        "endTime": "10:50:00",
+        "title": "Biostil  Tv prodaja",
+        "startUtc": "2025-10-05T10:35:00",
+        "endUtc": "2025-10-05T10:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "10:50:00",
+        "endTime": "11:50:00",
+        "title": "Provodadžija",
+        "startUtc": "2025-10-05T10:50:00",
+        "endUtc": "2025-10-05T11:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "11:50:00",
+        "endTime": "12:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-05T11:50:00",
+        "endUtc": "2025-10-05T12:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "12:00:00",
+        "endTime": "12:50:00",
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-05T12:00:00",
+        "endUtc": "2025-10-05T12:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "12:50:00",
+        "endTime": "13:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-05T12:50:00",
+        "endUtc": "2025-10-05T13:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "13:00:00",
+        "endTime": "13:50:00",
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-05T13:00:00",
+        "endUtc": "2025-10-05T13:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "13:50:00",
+        "endTime": "14:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-05T13:50:00",
+        "endUtc": "2025-10-05T14:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "14:00:00",
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-05T14:00:00",
+        "endUtc": "2025-10-05T14:30:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "14:30:00",
+        "endTime": "16:30:00",
+        "title": "Posle ručka",
+        "startUtc": "2025-10-05T14:30:00",
+        "endUtc": "2025-10-05T16:30:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "16:30:00",
+        "endTime": "17:00:00",
+        "title": "Telemaster",
+        "startUtc": "2025-10-05T16:30:00",
+        "endUtc": "2025-10-05T17:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "17:05:00",
+        "endTime": "17:30:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-05T17:05:00",
+        "endUtc": "2025-10-05T17:30:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "17:35:00",
+        "endTime": "18:15:00",
+        "title": "Serija Žena",
+        "startUtc": "2025-10-05T17:35:00",
+        "endUtc": "2025-10-05T18:15:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "18:15:00",
+        "endTime": "19:05:00",
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-05T18:15:00",
+        "endUtc": "2025-10-05T19:05:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-05T19:10:00",
+        "endUtc": "2025-10-05T20:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "20:00:00",
+        "endTime": "21:30:00",
+        "title": "Aktuelnosti",
+        "startUtc": "2025-10-05T20:00:00",
+        "endUtc": "2025-10-05T21:30:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "21:30:00",
+        "endTime": "23:00:00",
+        "title": "Svadba od milion evra",
+        "startUtc": "2025-10-05T21:30:00",
+        "endUtc": "2025-10-05T23:00:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "23:00:00",
+        "endTime": "23:50:00",
+        "title": "Serija Žena",
+        "startUtc": "2025-10-05T23:00:00",
+        "endUtc": "2025-10-05T23:50:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "23:50:00",
+        "endTime": "00:45:00",
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-05T23:50:00",
+        "endUtc": "2025-10-05T00:45:00"
+    },
+    {
+        "date": "05.10.2025.",
+        "startTime": "00:45:00",
+        "endTime": "01:30:00",
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-05T00:45:00",
+        "endUtc": "2025-10-05T01:30:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "05:55:00",
+        "endTime": "06:10:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-06T05:55:00",
+        "endUtc": "2025-10-06T06:10:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "06:10:00",
+        "endTime": "08:50:00",
+        "title": "Dobro jutro Srbijo",
+        "startUtc": "2025-10-06T06:10:00",
+        "endUtc": "2025-10-06T08:50:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "08:50:00",
+        "endTime": "09:15:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-06T08:50:00",
+        "endUtc": "2025-10-06T09:15:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "09:15:00",
+        "endTime": "09:50:00",
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-06T09:15:00",
+        "endUtc": "2025-10-06T09:50:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "09:50:00",
+        "endTime": "10:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-06T09:50:00",
+        "endUtc": "2025-10-06T10:00:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "10:00:00",
+        "endTime": "11:35:00",
+        "title": "Radio Happy",
+        "startUtc": "2025-10-06T10:00:00",
+        "endUtc": "2025-10-06T11:35:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "11:35:00",
+        "endTime": "11:50:00",
+        "title": "Biostil  Tv prodaja",
+        "startUtc": "2025-10-06T11:35:00",
+        "endUtc": "2025-10-06T11:50:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "11:50:00",
+        "endTime": "12:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-06T11:50:00",
+        "endUtc": "2025-10-06T12:00:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "12:00:00",
+        "endTime": "12:50:00",
+        "title": "Serija: Žena",
+        "startUtc": "2025-10-06T12:00:00",
+        "endUtc": "2025-10-06T12:50:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "12:50:00",
+        "endTime": "13:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-06T12:50:00",
+        "endUtc": "2025-10-06T13:00:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "13:00:00",
+        "endTime": "13:50:00",
+        "title": "Provodadžije",
+        "startUtc": "2025-10-06T13:00:00",
+        "endUtc": "2025-10-06T13:50:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "13:50:00",
+        "endTime": "14:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-06T13:50:00",
+        "endUtc": "2025-10-06T14:00:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "14:00:00",
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-06T14:00:00",
+        "endUtc": "2025-10-06T14:30:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "14:30:00",
+        "endTime": "16:30:00",
+        "title": "Posle ručka",
+        "startUtc": "2025-10-06T14:30:00",
+        "endUtc": "2025-10-06T16:30:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "16:30:00",
+        "endTime": "17:05:00",
+        "title": "Telemaster",
+        "startUtc": "2025-10-06T16:30:00",
+        "endUtc": "2025-10-06T17:05:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "17:05:00",
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-06T17:05:00",
+        "endUtc": "2025-10-06T17:40:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "17:40:00",
+        "endTime": "18:15:00",
+        "title": "Serija Žena",
+        "startUtc": "2025-10-06T17:40:00",
+        "endUtc": "2025-10-06T18:15:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "18:15:00",
+        "endTime": "19:05:00",
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-06T18:15:00",
+        "endUtc": "2025-10-06T19:05:00"
+    },
+    {
+        "date": "06.10.2025.",
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-06T19:10:00",
+        "endUtc": "2025-10-06T20:00:00"
+    },
+    {
+        "date": "06.10.2025.",
         "startTime": "20:00:00",
         "endTime": "21:00:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-08T20:00:00",
-        "endUtc": "2025-09-08T21:00:00"
+        "startUtc": "2025-10-06T20:00:00",
+        "endUtc": "2025-10-06T21:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "06.10.2025.",
         "startTime": "21:00:00",
         "endTime": "23:00:00",
         "title": "Ćirilica",
-        "startUtc": "2025-09-08T21:00:00",
-        "endUtc": "2025-09-08T23:00:00"
+        "startUtc": "2025-10-06T21:00:00",
+        "endUtc": "2025-10-06T23:00:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "06.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-08T23:00:00",
-        "endUtc": "2025-09-08T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-06T23:00:00",
+        "endUtc": "2025-10-06T23:50:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "06.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-08T23:50:00",
-        "endUtc": "2025-09-08T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-06T23:50:00",
+        "endUtc": "2025-10-06T00:45:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "06.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-08T00:45:00",
-        "endUtc": "2025-09-08T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-06T00:45:00",
+        "endUtc": "2025-10-06T01:30:00"
     },
     {
-        "date": "08.09.2025.",
+        "date": "06.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-08T04:30:00",
-        "endUtc": "2025-09-08T05:55:00"
+        "startUtc": "2025-10-06T04:30:00",
+        "endUtc": "2025-10-06T05:55:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-09T05:55:00",
-        "endUtc": "2025-09-09T06:10:00"
+        "startUtc": "2025-10-07T05:55:00",
+        "endUtc": "2025-10-07T06:10:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-09T06:10:00",
-        "endUtc": "2025-09-09T08:50:00"
+        "startUtc": "2025-10-07T06:10:00",
+        "endUtc": "2025-10-07T08:50:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-09T08:50:00",
-        "endUtc": "2025-09-09T09:15:00"
+        "startUtc": "2025-10-07T08:50:00",
+        "endUtc": "2025-10-07T09:15:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-09T09:15:00",
-        "endUtc": "2025-09-09T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-07T09:15:00",
+        "endUtc": "2025-10-07T09:50:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-09T09:50:00",
-        "endUtc": "2025-09-09T10:00:00"
+        "startUtc": "2025-10-07T09:50:00",
+        "endUtc": "2025-10-07T10:00:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-09T10:00:00",
-        "endUtc": "2025-09-09T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-07T10:00:00",
+        "endUtc": "2025-10-07T11:35:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-09T11:35:00",
-        "endUtc": "2025-09-09T11:50:00"
+        "startUtc": "2025-10-07T11:35:00",
+        "endUtc": "2025-10-07T11:50:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-09T11:50:00",
-        "endUtc": "2025-09-09T12:00:00"
+        "startUtc": "2025-10-07T11:50:00",
+        "endUtc": "2025-10-07T12:00:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Serija: Jedino ljubav (R)",
-        "startUtc": "2025-09-09T12:00:00",
-        "endUtc": "2025-09-09T12:50:00"
+        "title": "Serija: Žena",
+        "startUtc": "2025-10-07T12:00:00",
+        "endUtc": "2025-10-07T12:50:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-09T12:50:00",
-        "endUtc": "2025-09-09T13:00:00"
+        "startUtc": "2025-10-07T12:50:00",
+        "endUtc": "2025-10-07T13:00:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Serija: Druga sansa (R)",
-        "startUtc": "2025-09-09T13:00:00",
-        "endUtc": "2025-09-09T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-07T13:00:00",
+        "endUtc": "2025-10-07T13:50:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-09T13:50:00",
-        "endUtc": "2025-09-09T14:00:00"
+        "startUtc": "2025-10-07T13:50:00",
+        "endUtc": "2025-10-07T14:00:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-09T14:00:00",
-        "endUtc": "2025-09-09T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-07T14:00:00",
+        "endUtc": "2025-10-07T14:30:00"
     },
     {
-        "date": "09.09.2025.",
-        "startTime": "14:50:00",
+        "date": "07.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-09T14:50:00",
-        "endUtc": "2025-09-09T16:30:00"
+        "startUtc": "2025-10-07T14:30:00",
+        "endUtc": "2025-10-07T16:30:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-09T16:30:00",
-        "endUtc": "2025-09-09T17:00:00"
+        "startUtc": "2025-10-07T16:30:00",
+        "endUtc": "2025-10-07T17:05:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-09T17:05:00",
-        "endUtc": "2025-09-09T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-07T17:05:00",
+        "endUtc": "2025-10-07T17:40:00"
     },
     {
-        "date": "09.09.2025.",
-        "startTime": "17:35:00",
+        "date": "07.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-09T17:35:00",
-        "endUtc": "2025-09-09T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-07T17:40:00",
+        "endUtc": "2025-10-07T18:15:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-09T18:15:00",
-        "endUtc": "2025-09-09T19:05:00"
+        "startUtc": "2025-10-07T18:15:00",
+        "endUtc": "2025-10-07T19:05:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-09T19:10:00",
-        "endUtc": "2025-09-09T20:00:00"
+        "startUtc": "2025-10-07T19:10:00",
+        "endUtc": "2025-10-07T20:00:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "20:00:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-09T20:00:00",
-        "endUtc": "2025-09-09T21:30:00"
+        "startUtc": "2025-10-07T20:00:00",
+        "endUtc": "2025-10-07T21:30:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Muzički specijal",
-        "startUtc": "2025-09-09T21:30:00",
-        "endUtc": "2025-09-09T23:00:00"
+        "startUtc": "2025-10-07T21:30:00",
+        "endUtc": "2025-10-07T23:00:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-09T23:00:00",
-        "endUtc": "2025-09-09T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-07T23:00:00",
+        "endUtc": "2025-10-07T23:50:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-09T23:50:00",
-        "endUtc": "2025-09-09T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-07T23:50:00",
+        "endUtc": "2025-10-07T00:45:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-09T00:45:00",
-        "endUtc": "2025-09-09T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-07T00:45:00",
+        "endUtc": "2025-10-07T01:30:00"
     },
     {
-        "date": "09.09.2025.",
+        "date": "07.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-09T04:30:00",
-        "endUtc": "2025-09-09T05:55:00"
+        "startUtc": "2025-10-07T04:30:00",
+        "endUtc": "2025-10-07T05:55:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-10T05:55:00",
-        "endUtc": "2025-09-10T06:10:00"
+        "startUtc": "2025-10-08T05:55:00",
+        "endUtc": "2025-10-08T06:10:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-10T06:10:00",
-        "endUtc": "2025-09-10T08:50:00"
+        "startUtc": "2025-10-08T06:10:00",
+        "endUtc": "2025-10-08T08:50:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-10T08:50:00",
-        "endUtc": "2025-09-10T09:15:00"
+        "startUtc": "2025-10-08T08:50:00",
+        "endUtc": "2025-10-08T09:15:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-10T09:15:00",
-        "endUtc": "2025-09-10T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-08T09:15:00",
+        "endUtc": "2025-10-08T09:50:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-10T09:50:00",
-        "endUtc": "2025-09-10T10:00:00"
+        "startUtc": "2025-10-08T09:50:00",
+        "endUtc": "2025-10-08T10:00:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-10T10:00:00",
-        "endUtc": "2025-09-10T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-08T10:00:00",
+        "endUtc": "2025-10-08T11:35:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-10T11:35:00",
-        "endUtc": "2025-09-10T11:50:00"
+        "startUtc": "2025-10-08T11:35:00",
+        "endUtc": "2025-10-08T11:50:00"
     },
     {
-        "date": "10.09.2025.",
-        "startTime": "11:55:00",
+        "date": "08.10.2025.",
+        "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-10T11:55:00",
-        "endUtc": "2025-09-10T12:00:00"
+        "startUtc": "2025-10-08T11:50:00",
+        "endUtc": "2025-10-08T12:00:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-10T12:00:00",
-        "endUtc": "2025-09-10T12:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-08T12:00:00",
+        "endUtc": "2025-10-08T12:50:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-10T12:50:00",
-        "endUtc": "2025-09-10T13:00:00"
+        "startUtc": "2025-10-08T12:50:00",
+        "endUtc": "2025-10-08T13:00:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-10T13:00:00",
-        "endUtc": "2025-09-10T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-08T13:00:00",
+        "endUtc": "2025-10-08T13:50:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-10T13:50:00",
-        "endUtc": "2025-09-10T14:00:00"
+        "startUtc": "2025-10-08T13:50:00",
+        "endUtc": "2025-10-08T14:00:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-10T14:00:00",
-        "endUtc": "2025-09-10T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-08T14:00:00",
+        "endUtc": "2025-10-08T14:30:00"
     },
     {
-        "date": "10.09.2025.",
-        "startTime": "14:50:00",
+        "date": "08.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-10T14:50:00",
-        "endUtc": "2025-09-10T16:30:00"
+        "startUtc": "2025-10-08T14:30:00",
+        "endUtc": "2025-10-08T16:30:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-10T16:30:00",
-        "endUtc": "2025-09-10T17:00:00"
+        "startUtc": "2025-10-08T16:30:00",
+        "endUtc": "2025-10-08T17:05:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-10T17:05:00",
-        "endUtc": "2025-09-10T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-08T17:05:00",
+        "endUtc": "2025-10-08T17:40:00"
     },
     {
-        "date": "10.09.2025.",
-        "startTime": "17:35:00",
+        "date": "08.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-10T17:35:00",
-        "endUtc": "2025-09-10T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-08T17:40:00",
+        "endUtc": "2025-10-08T18:15:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-10T18:15:00",
-        "endUtc": "2025-09-10T19:05:00"
+        "startUtc": "2025-10-08T18:15:00",
+        "endUtc": "2025-10-08T19:05:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "19:10:00",
         "endTime": "19:35:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-10T19:10:00",
-        "endUtc": "2025-09-10T19:35:00"
+        "startUtc": "2025-10-08T19:10:00",
+        "endUtc": "2025-10-08T19:35:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "19:35:00",
         "endTime": "20:30:00",
         "title": "BINGO",
-        "startUtc": "2025-09-10T19:35:00",
-        "endUtc": "2025-09-10T20:30:00"
+        "startUtc": "2025-10-08T19:35:00",
+        "endUtc": "2025-10-08T20:30:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "20:05:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-10T20:05:00",
-        "endUtc": "2025-09-10T21:30:00"
+        "startUtc": "2025-10-08T20:05:00",
+        "endUtc": "2025-10-08T21:30:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Muzički specijal",
-        "startUtc": "2025-09-10T21:30:00",
-        "endUtc": "2025-09-10T23:00:00"
+        "startUtc": "2025-10-08T21:30:00",
+        "endUtc": "2025-10-08T23:00:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-10T23:00:00",
-        "endUtc": "2025-09-10T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-08T23:00:00",
+        "endUtc": "2025-10-08T23:50:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-10T23:50:00",
-        "endUtc": "2025-09-10T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-08T23:50:00",
+        "endUtc": "2025-10-08T00:45:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-10T00:45:00",
-        "endUtc": "2025-09-10T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-08T00:45:00",
+        "endUtc": "2025-10-08T01:30:00"
     },
     {
-        "date": "10.09.2025.",
+        "date": "08.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-10T04:30:00",
-        "endUtc": "2025-09-10T05:55:00"
+        "startUtc": "2025-10-08T04:30:00",
+        "endUtc": "2025-10-08T05:55:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-11T05:55:00",
-        "endUtc": "2025-09-11T06:10:00"
+        "startUtc": "2025-10-09T05:55:00",
+        "endUtc": "2025-10-09T06:10:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-11T06:10:00",
-        "endUtc": "2025-09-11T08:50:00"
+        "startUtc": "2025-10-09T06:10:00",
+        "endUtc": "2025-10-09T08:50:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-11T08:50:00",
-        "endUtc": "2025-09-11T09:15:00"
+        "startUtc": "2025-10-09T08:50:00",
+        "endUtc": "2025-10-09T09:15:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-11T09:15:00",
-        "endUtc": "2025-09-11T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-09T09:15:00",
+        "endUtc": "2025-10-09T09:50:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-11T09:50:00",
-        "endUtc": "2025-09-11T10:00:00"
+        "startUtc": "2025-10-09T09:50:00",
+        "endUtc": "2025-10-09T10:00:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-11T10:00:00",
-        "endUtc": "2025-09-11T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-09T10:00:00",
+        "endUtc": "2025-10-09T11:35:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-11T11:35:00",
-        "endUtc": "2025-09-11T11:50:00"
+        "startUtc": "2025-10-09T11:35:00",
+        "endUtc": "2025-10-09T11:50:00"
     },
     {
-        "date": "11.09.2025.",
-        "startTime": "11:55:00",
+        "date": "09.10.2025.",
+        "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-11T11:55:00",
-        "endUtc": "2025-09-11T12:00:00"
+        "startUtc": "2025-10-09T11:50:00",
+        "endUtc": "2025-10-09T12:00:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-11T12:00:00",
-        "endUtc": "2025-09-11T12:50:00"
+        "title": "Serija: Žena",
+        "startUtc": "2025-10-09T12:00:00",
+        "endUtc": "2025-10-09T12:50:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-11T12:50:00",
-        "endUtc": "2025-09-11T13:00:00"
+        "startUtc": "2025-10-09T12:50:00",
+        "endUtc": "2025-10-09T13:00:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Muzički specijal (R)",
-        "startUtc": "2025-09-11T13:00:00",
-        "endUtc": "2025-09-11T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-09T13:00:00",
+        "endUtc": "2025-10-09T13:50:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-11T13:50:00",
-        "endUtc": "2025-09-11T14:00:00"
+        "startUtc": "2025-10-09T13:50:00",
+        "endUtc": "2025-10-09T14:00:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-11T14:00:00",
-        "endUtc": "2025-09-11T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-09T14:00:00",
+        "endUtc": "2025-10-09T14:30:00"
     },
     {
-        "date": "11.09.2025.",
-        "startTime": "14:50:00",
+        "date": "09.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-11T14:50:00",
-        "endUtc": "2025-09-11T16:30:00"
+        "startUtc": "2025-10-09T14:30:00",
+        "endUtc": "2025-10-09T16:30:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-11T16:30:00",
-        "endUtc": "2025-09-11T17:00:00"
+        "startUtc": "2025-10-09T16:30:00",
+        "endUtc": "2025-10-09T17:05:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-11T17:05:00",
-        "endUtc": "2025-09-11T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-09T17:05:00",
+        "endUtc": "2025-10-09T17:40:00"
     },
     {
-        "date": "11.09.2025.",
-        "startTime": "17:35:00",
+        "date": "09.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-11T17:35:00",
-        "endUtc": "2025-09-11T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-09T17:40:00",
+        "endUtc": "2025-10-09T18:15:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-11T18:15:00",
-        "endUtc": "2025-09-11T19:05:00"
+        "startUtc": "2025-10-09T18:15:00",
+        "endUtc": "2025-10-09T19:05:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-11T19:10:00",
-        "endUtc": "2025-09-11T20:00:00"
+        "startUtc": "2025-10-09T19:10:00",
+        "endUtc": "2025-10-09T20:00:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "20:00:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-11T20:00:00",
-        "endUtc": "2025-09-11T21:30:00"
+        "startUtc": "2025-10-09T20:00:00",
+        "endUtc": "2025-10-09T21:30:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Dobro veče",
-        "startUtc": "2025-09-11T21:30:00",
-        "endUtc": "2025-09-11T23:00:00"
+        "startUtc": "2025-10-09T21:30:00",
+        "endUtc": "2025-10-09T23:00:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-11T23:00:00",
-        "endUtc": "2025-09-11T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-09T23:00:00",
+        "endUtc": "2025-10-09T23:50:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-11T23:50:00",
-        "endUtc": "2025-09-11T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-09T23:50:00",
+        "endUtc": "2025-10-09T00:45:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-11T00:45:00",
-        "endUtc": "2025-09-11T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-09T00:45:00",
+        "endUtc": "2025-10-09T01:30:00"
     },
     {
-        "date": "11.09.2025.",
+        "date": "09.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-11T04:30:00",
-        "endUtc": "2025-09-11T05:55:00"
+        "startUtc": "2025-10-09T04:30:00",
+        "endUtc": "2025-10-09T05:55:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-12T05:55:00",
-        "endUtc": "2025-09-12T06:10:00"
+        "startUtc": "2025-10-10T05:55:00",
+        "endUtc": "2025-10-10T06:10:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-12T06:10:00",
-        "endUtc": "2025-09-12T08:50:00"
+        "startUtc": "2025-10-10T06:10:00",
+        "endUtc": "2025-10-10T08:50:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-12T08:50:00",
-        "endUtc": "2025-09-12T09:15:00"
+        "startUtc": "2025-10-10T08:50:00",
+        "endUtc": "2025-10-10T09:15:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-12T09:15:00",
-        "endUtc": "2025-09-12T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-10T09:15:00",
+        "endUtc": "2025-10-10T09:50:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-12T09:50:00",
-        "endUtc": "2025-09-12T10:00:00"
+        "startUtc": "2025-10-10T09:50:00",
+        "endUtc": "2025-10-10T10:00:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "10:00:00",
         "endTime": "11:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-12T10:00:00",
-        "endUtc": "2025-09-12T11:35:00"
+        "title": "Radio Happy",
+        "startUtc": "2025-10-10T10:00:00",
+        "endUtc": "2025-10-10T11:35:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "11:35:00",
         "endTime": "11:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-12T11:35:00",
-        "endUtc": "2025-09-12T11:50:00"
+        "startUtc": "2025-10-10T11:35:00",
+        "endUtc": "2025-10-10T11:50:00"
     },
     {
-        "date": "12.09.2025.",
-        "startTime": "11:55:00",
+        "date": "10.10.2025.",
+        "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-12T11:55:00",
-        "endUtc": "2025-09-12T12:00:00"
+        "startUtc": "2025-10-10T11:50:00",
+        "endUtc": "2025-10-10T12:00:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "12:00:00",
         "endTime": "12:50:00",
-        "title": "Dobro veče (R)",
-        "startUtc": "2025-09-12T12:00:00",
-        "endUtc": "2025-09-12T12:50:00"
+        "title": "Serija: Žena",
+        "startUtc": "2025-10-10T12:00:00",
+        "endUtc": "2025-10-10T12:50:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "12:50:00",
         "endTime": "13:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-12T12:50:00",
-        "endUtc": "2025-09-12T13:00:00"
+        "startUtc": "2025-10-10T12:50:00",
+        "endUtc": "2025-10-10T13:00:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "13:00:00",
         "endTime": "13:50:00",
-        "title": "Dobro veče (R)",
-        "startUtc": "2025-09-12T13:00:00",
-        "endUtc": "2025-09-12T13:50:00"
+        "title": "Provodadžije",
+        "startUtc": "2025-10-10T13:00:00",
+        "endUtc": "2025-10-10T13:50:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-12T13:50:00",
-        "endUtc": "2025-09-12T14:00:00"
+        "startUtc": "2025-10-10T13:50:00",
+        "endUtc": "2025-10-10T14:00:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Serija: Zabranjena jabuka (R)",
-        "startUtc": "2025-09-12T14:00:00",
-        "endUtc": "2025-09-12T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-10T14:00:00",
+        "endUtc": "2025-10-10T14:30:00"
     },
     {
-        "date": "12.09.2025.",
-        "startTime": "14:50:00",
+        "date": "10.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Posle ručka",
-        "startUtc": "2025-09-12T14:50:00",
-        "endUtc": "2025-09-12T16:30:00"
+        "startUtc": "2025-10-10T14:30:00",
+        "endUtc": "2025-10-10T16:30:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "16:30:00",
-        "endTime": "17:00:00",
+        "endTime": "17:05:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-12T16:30:00",
-        "endUtc": "2025-09-12T17:00:00"
+        "startUtc": "2025-10-10T16:30:00",
+        "endUtc": "2025-10-10T17:05:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-12T17:05:00",
-        "endUtc": "2025-09-12T17:30:00"
+        "endTime": "17:40:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-10T17:05:00",
+        "endUtc": "2025-10-10T17:40:00"
     },
     {
-        "date": "12.09.2025.",
-        "startTime": "17:35:00",
+        "date": "10.10.2025.",
+        "startTime": "17:40:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-12T17:35:00",
-        "endUtc": "2025-09-12T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-10T17:40:00",
+        "endUtc": "2025-10-10T18:15:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-12T18:15:00",
-        "endUtc": "2025-09-12T19:05:00"
+        "startUtc": "2025-10-10T18:15:00",
+        "endUtc": "2025-10-10T19:05:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-12T19:10:00",
-        "endUtc": "2025-09-12T20:00:00"
+        "startUtc": "2025-10-10T19:10:00",
+        "endUtc": "2025-10-10T20:00:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "20:00:00",
         "endTime": "21:30:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-12T20:00:00",
-        "endUtc": "2025-09-12T21:30:00"
+        "startUtc": "2025-10-10T20:00:00",
+        "endUtc": "2025-10-10T21:30:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "21:30:00",
         "endTime": "23:00:00",
         "title": "Poželi pesmu",
-        "startUtc": "2025-09-12T21:30:00",
-        "endUtc": "2025-09-12T23:00:00"
+        "startUtc": "2025-10-10T21:30:00",
+        "endUtc": "2025-10-10T23:00:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-12T23:00:00",
-        "endUtc": "2025-09-12T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-10T23:00:00",
+        "endUtc": "2025-10-10T23:50:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-12T23:50:00",
-        "endUtc": "2025-09-12T00:45:00"
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-10T23:50:00",
+        "endUtc": "2025-10-10T00:45:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-12T00:45:00",
-        "endUtc": "2025-09-12T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-10T00:45:00",
+        "endUtc": "2025-10-10T01:30:00"
     },
     {
-        "date": "12.09.2025.",
+        "date": "10.10.2025.",
         "startTime": "04:30:00",
         "endTime": "05:55:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-12T04:30:00",
-        "endUtc": "2025-09-12T05:55:00"
+        "startUtc": "2025-10-10T04:30:00",
+        "endUtc": "2025-10-10T05:55:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-13T05:55:00",
-        "endUtc": "2025-09-13T06:10:00"
+        "startUtc": "2025-10-11T05:55:00",
+        "endUtc": "2025-10-11T06:10:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "06:10:00",
         "endTime": "08:50:00",
         "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-13T06:10:00",
-        "endUtc": "2025-09-13T08:50:00"
+        "startUtc": "2025-10-11T06:10:00",
+        "endUtc": "2025-10-11T08:50:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "08:50:00",
         "endTime": "09:15:00",
         "title": "Vesti",
-        "startUtc": "2025-09-13T08:50:00",
-        "endUtc": "2025-09-13T09:15:00"
+        "startUtc": "2025-10-11T08:50:00",
+        "endUtc": "2025-10-11T09:15:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "09:15:00",
         "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-13T09:15:00",
-        "endUtc": "2025-09-13T09:50:00"
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-11T09:15:00",
+        "endUtc": "2025-10-11T09:50:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "09:50:00",
         "endTime": "10:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-13T09:50:00",
-        "endUtc": "2025-09-13T10:00:00"
+        "startUtc": "2025-10-11T09:50:00",
+        "endUtc": "2025-10-11T10:00:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "10:00:00",
         "endTime": "10:35:00",
         "title": "Provodadžija",
-        "startUtc": "2025-09-13T10:00:00",
-        "endUtc": "2025-09-13T10:35:00"
+        "startUtc": "2025-10-11T10:00:00",
+        "endUtc": "2025-10-11T10:35:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "10:35:00",
         "endTime": "10:50:00",
         "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-13T10:35:00",
-        "endUtc": "2025-09-13T10:50:00"
+        "startUtc": "2025-10-11T10:35:00",
+        "endUtc": "2025-10-11T10:50:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "10:50:00",
         "endTime": "11:50:00",
         "title": "Provodadžija",
-        "startUtc": "2025-09-13T10:50:00",
-        "endUtc": "2025-09-13T11:50:00"
+        "startUtc": "2025-10-11T10:50:00",
+        "endUtc": "2025-10-11T11:50:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "11:50:00",
         "endTime": "12:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-13T11:50:00",
-        "endUtc": "2025-09-13T12:00:00"
+        "startUtc": "2025-10-11T11:50:00",
+        "endUtc": "2025-10-11T12:00:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "12:00:00",
+        "endTime": "12:50:00",
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-11T12:00:00",
+        "endUtc": "2025-10-11T12:50:00"
+    },
+    {
+        "date": "11.10.2025.",
+        "startTime": "12:50:00",
+        "endTime": "13:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-11T12:50:00",
+        "endUtc": "2025-10-11T13:00:00"
+    },
+    {
+        "date": "11.10.2025.",
+        "startTime": "13:00:00",
         "endTime": "13:50:00",
         "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-13T12:00:00",
-        "endUtc": "2025-09-13T13:50:00"
+        "startUtc": "2025-10-11T13:00:00",
+        "endUtc": "2025-10-11T13:50:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "13:50:00",
         "endTime": "14:00:00",
         "title": "Vesti",
-        "startUtc": "2025-09-13T13:50:00",
-        "endUtc": "2025-09-13T14:00:00"
+        "startUtc": "2025-10-11T13:50:00",
+        "endUtc": "2025-10-11T14:00:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-13T14:00:00",
-        "endUtc": "2025-09-13T14:50:00"
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-11T14:00:00",
+        "endUtc": "2025-10-11T14:30:00"
     },
     {
-        "date": "13.09.2025.",
-        "startTime": "14:50:00",
+        "date": "11.10.2025.",
+        "startTime": "14:30:00",
         "endTime": "16:30:00",
         "title": "Raspevana Subota",
-        "startUtc": "2025-09-13T14:50:00",
-        "endUtc": "2025-09-13T16:30:00"
+        "startUtc": "2025-10-11T14:30:00",
+        "endUtc": "2025-10-11T16:30:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "16:30:00",
         "endTime": "17:00:00",
         "title": "Telemaster",
-        "startUtc": "2025-09-13T16:30:00",
-        "endUtc": "2025-09-13T17:00:00"
+        "startUtc": "2025-10-11T16:30:00",
+        "endUtc": "2025-10-11T17:00:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "17:05:00",
         "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-13T17:05:00",
-        "endUtc": "2025-09-13T17:30:00"
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-11T17:05:00",
+        "endUtc": "2025-10-11T17:30:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "17:35:00",
         "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-13T17:35:00",
-        "endUtc": "2025-09-13T18:15:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-11T17:35:00",
+        "endUtc": "2025-10-11T18:15:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "18:15:00",
         "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-13T18:15:00",
-        "endUtc": "2025-09-13T19:05:00"
+        "startUtc": "2025-10-11T18:15:00",
+        "endUtc": "2025-10-11T19:05:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "19:10:00",
         "endTime": "20:00:00",
         "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-13T19:10:00",
-        "endUtc": "2025-09-13T20:00:00"
+        "startUtc": "2025-10-11T19:10:00",
+        "endUtc": "2025-10-11T20:00:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "20:00:00",
         "endTime": "23:00:00",
         "title": "Aktuelnosti",
-        "startUtc": "2025-09-13T20:00:00",
-        "endUtc": "2025-09-13T23:00:00"
+        "startUtc": "2025-10-11T20:00:00",
+        "endUtc": "2025-10-11T23:00:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "23:00:00",
         "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-13T23:00:00",
-        "endUtc": "2025-09-13T23:50:00"
+        "title": "Serija Žena",
+        "startUtc": "2025-10-11T23:00:00",
+        "endUtc": "2025-10-11T23:50:00"
     },
     {
-        "date": "13.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "23:50:00",
         "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-13T23:50:00",
-        "endUtc": "2025-09-13T00:45:00"
-    },
-    {
-        "date": "13.09.2025.",
-        "startTime": "00:45:00",
-        "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-13T00:45:00",
-        "endUtc": "2025-09-13T01:30:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "07:00:00",
-        "endTime": "08:00:00",
-        "title": "Bolja zemlja",
-        "startUtc": "2025-09-14T07:00:00",
-        "endUtc": "2025-09-14T08:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "08:00:00",
-        "endTime": "08:50:00",
-        "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-14T08:00:00",
-        "endUtc": "2025-09-14T08:50:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "08:50:00",
-        "endTime": "09:15:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-14T08:50:00",
-        "endUtc": "2025-09-14T09:15:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "09:15:00",
-        "endTime": "09:50:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-14T09:15:00",
-        "endUtc": "2025-09-14T09:50:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "09:50:00",
-        "endTime": "10:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-14T09:50:00",
-        "endUtc": "2025-09-14T10:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "10:00:00",
-        "endTime": "10:35:00",
-        "title": "Provodadžija",
-        "startUtc": "2025-09-14T10:00:00",
-        "endUtc": "2025-09-14T10:35:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "10:35:00",
-        "endTime": "10:50:00",
-        "title": "Biostil  Tv prodaja",
-        "startUtc": "2025-09-14T10:35:00",
-        "endUtc": "2025-09-14T10:50:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "10:50:00",
-        "endTime": "11:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-14T10:50:00",
-        "endUtc": "2025-09-14T11:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "11:00:00",
-        "endTime": "11:55:00",
-        "title": "Serija Jedino Ljubav R",
-        "startUtc": "2025-09-14T11:00:00",
-        "endUtc": "2025-09-14T11:55:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "11:50:00",
-        "endTime": "12:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-14T11:50:00",
-        "endUtc": "2025-09-14T12:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "12:00:00",
-        "endTime": "13:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-14T12:00:00",
-        "endUtc": "2025-09-14T13:50:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "13:50:00",
-        "endTime": "14:00:00",
-        "title": "Vesti",
-        "startUtc": "2025-09-14T13:50:00",
-        "endUtc": "2025-09-14T14:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "14:00:00",
-        "endTime": "14:50:00",
-        "title": "Prelo u nasem sokaku",
-        "startUtc": "2025-09-14T14:00:00",
-        "endUtc": "2025-09-14T14:50:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "14:50:00",
-        "endTime": "16:30:00",
-        "title": "Posle ručka",
-        "startUtc": "2025-09-14T14:50:00",
-        "endUtc": "2025-09-14T16:30:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "16:30:00",
-        "endTime": "17:00:00",
-        "title": "Telemaster",
-        "startUtc": "2025-09-14T16:30:00",
-        "endUtc": "2025-09-14T17:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "17:05:00",
-        "endTime": "17:30:00",
-        "title": "Naslovna strana",
-        "startUtc": "2025-09-14T17:05:00",
-        "endUtc": "2025-09-14T17:30:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "17:35:00",
-        "endTime": "18:15:00",
-        "title": "Serija Jedino Ljubav",
-        "startUtc": "2025-09-14T17:35:00",
-        "endUtc": "2025-09-14T18:15:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "18:15:00",
-        "endTime": "19:05:00",
         "title": "Serija Druga šansa",
-        "startUtc": "2025-09-14T18:15:00",
-        "endUtc": "2025-09-14T19:05:00"
+        "startUtc": "2025-10-11T23:50:00",
+        "endUtc": "2025-10-11T00:45:00"
     },
     {
-        "date": "14.09.2025.",
-        "startTime": "19:10:00",
-        "endTime": "20:00:00",
-        "title": "Serija Zabrenjana Jabuka",
-        "startUtc": "2025-09-14T19:10:00",
-        "endUtc": "2025-09-14T20:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "20:00:00",
-        "endTime": "21:30:00",
-        "title": "Aktuelnosti",
-        "startUtc": "2025-09-14T20:00:00",
-        "endUtc": "2025-09-14T21:30:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "21:30:00",
-        "endTime": "23:00:00",
-        "title": "Svadba od milion evra R",
-        "startUtc": "2025-09-14T21:30:00",
-        "endUtc": "2025-09-14T23:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "23:00:00",
-        "endTime": "23:50:00",
-        "title": "Serija Jedino ljubav R",
-        "startUtc": "2025-09-14T23:00:00",
-        "endUtc": "2025-09-14T23:50:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "23:50:00",
-        "endTime": "00:45:00",
-        "title": "Serija Druga šansa R",
-        "startUtc": "2025-09-14T23:50:00",
-        "endUtc": "2025-09-14T00:45:00"
-    },
-    {
-        "date": "14.09.2025.",
+        "date": "11.10.2025.",
         "startTime": "00:45:00",
         "endTime": "01:30:00",
-        "title": "Serija Zabrenjana Jabuka R",
-        "startUtc": "2025-09-14T00:45:00",
-        "endUtc": "2025-09-14T01:30:00"
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-11T00:45:00",
+        "endUtc": "2025-10-11T01:30:00"
     },
     {
-        "date": "14.09.2025.",
-        "startTime": "01:30:00",
-        "endTime": "03:00:00",
-        "title": "Ćirilica (R)",
-        "startUtc": "2025-09-14T01:30:00",
-        "endUtc": "2025-09-14T03:00:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "03:00:00",
-        "endTime": "04:30:00",
-        "title": "Posle ručka (R)",
-        "startUtc": "2025-09-14T03:00:00",
-        "endUtc": "2025-09-14T04:30:00"
-    },
-    {
-        "date": "14.09.2025.",
-        "startTime": "04:30:00",
-        "endTime": "05:55:00",
-        "title": "Dobro jutro Srbijo",
-        "startUtc": "2025-09-14T04:30:00",
-        "endUtc": "2025-09-14T05:55:00"
-    },
-    {
-        "date": "14.09.2025.",
+        "date": "12.10.2025.",
         "startTime": "05:55:00",
         "endTime": "06:10:00",
         "title": "Vesti",
-        "startUtc": "2025-09-14T05:55:00",
-        "endUtc": "2025-09-14T06:10:00"
+        "startUtc": "2025-10-12T05:55:00",
+        "endUtc": "2025-10-12T06:10:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "06:10:00",
+        "endTime": "08:50:00",
+        "title": "Dobro jutro Srbijo",
+        "startUtc": "2025-10-12T06:10:00",
+        "endUtc": "2025-10-12T08:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "08:50:00",
+        "endTime": "09:15:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-12T08:50:00",
+        "endUtc": "2025-10-12T09:15:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "09:15:00",
+        "endTime": "09:50:00",
+        "title": "Srpske domaćice",
+        "startUtc": "2025-10-12T09:15:00",
+        "endUtc": "2025-10-12T09:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "09:50:00",
+        "endTime": "10:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-12T09:50:00",
+        "endUtc": "2025-10-12T10:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "10:00:00",
+        "endTime": "10:35:00",
+        "title": "Provodadžija",
+        "startUtc": "2025-10-12T10:00:00",
+        "endUtc": "2025-10-12T10:35:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "10:35:00",
+        "endTime": "10:50:00",
+        "title": "Biostil  Tv prodaja",
+        "startUtc": "2025-10-12T10:35:00",
+        "endUtc": "2025-10-12T10:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "10:50:00",
+        "endTime": "11:50:00",
+        "title": "Provodadžija",
+        "startUtc": "2025-10-12T10:50:00",
+        "endUtc": "2025-10-12T11:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "11:50:00",
+        "endTime": "12:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-12T11:50:00",
+        "endUtc": "2025-10-12T12:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "12:00:00",
+        "endTime": "12:50:00",
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-12T12:00:00",
+        "endUtc": "2025-10-12T12:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "12:50:00",
+        "endTime": "13:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-12T12:50:00",
+        "endUtc": "2025-10-12T13:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "13:00:00",
+        "endTime": "13:50:00",
+        "title": "Prelo u nasem sokaku",
+        "startUtc": "2025-10-12T13:00:00",
+        "endUtc": "2025-10-12T13:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "13:50:00",
+        "endTime": "14:00:00",
+        "title": "Vesti",
+        "startUtc": "2025-10-12T13:50:00",
+        "endUtc": "2025-10-12T14:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "14:00:00",
+        "endTime": "14:30:00",
+        "title": "Kviz 1 na 1",
+        "startUtc": "2025-10-12T14:00:00",
+        "endUtc": "2025-10-12T14:30:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "14:30:00",
+        "endTime": "16:30:00",
+        "title": "Posle ručka",
+        "startUtc": "2025-10-12T14:30:00",
+        "endUtc": "2025-10-12T16:30:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "16:30:00",
+        "endTime": "17:00:00",
+        "title": "Telemaster",
+        "startUtc": "2025-10-12T16:30:00",
+        "endUtc": "2025-10-12T17:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "17:05:00",
+        "endTime": "17:30:00",
+        "title": "Kviz Naslovna strana",
+        "startUtc": "2025-10-12T17:05:00",
+        "endUtc": "2025-10-12T17:30:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "17:35:00",
+        "endTime": "18:15:00",
+        "title": "Serija Žena",
+        "startUtc": "2025-10-12T17:35:00",
+        "endUtc": "2025-10-12T18:15:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "18:15:00",
+        "endTime": "19:05:00",
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-12T18:15:00",
+        "endUtc": "2025-10-12T19:05:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "19:10:00",
+        "endTime": "20:00:00",
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-12T19:10:00",
+        "endUtc": "2025-10-12T20:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "20:00:00",
+        "endTime": "21:30:00",
+        "title": "Aktuelnosti",
+        "startUtc": "2025-10-12T20:00:00",
+        "endUtc": "2025-10-12T21:30:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "21:30:00",
+        "endTime": "23:00:00",
+        "title": "Svadba od milion evra",
+        "startUtc": "2025-10-12T21:30:00",
+        "endUtc": "2025-10-12T23:00:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "23:00:00",
+        "endTime": "23:50:00",
+        "title": "Serija Žena",
+        "startUtc": "2025-10-12T23:00:00",
+        "endUtc": "2025-10-12T23:50:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "23:50:00",
+        "endTime": "00:45:00",
+        "title": "Serija Druga šansa",
+        "startUtc": "2025-10-12T23:50:00",
+        "endUtc": "2025-10-12T00:45:00"
+    },
+    {
+        "date": "12.10.2025.",
+        "startTime": "00:45:00",
+        "endTime": "01:30:00",
+        "title": "Serija Zabrenjana Jabuka",
+        "startUtc": "2025-10-12T00:45:00",
+        "endUtc": "2025-10-12T01:30:00"
     }
 ]
-
